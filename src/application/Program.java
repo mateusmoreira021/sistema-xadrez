@@ -15,6 +15,7 @@ public class Program {
 		
 		Board board = new Board(8, 8);
 		System.out.println(board);
+		System.out.println("oi");
 		
 		
 		sc.close();
